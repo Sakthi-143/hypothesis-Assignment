@@ -2,7 +2,7 @@
 # Readme File
 
 ## Question 1 
-### Objective: 
+### Objective:  
 To determine whether there is any significant difference in the diameter of the cutlet between two units.
 
 ### Data:
